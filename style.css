@@ -1124,6 +1124,8 @@ body.lw-menu-open{overflow:hidden}
   stroke-width:1.7;flex-shrink:0;
 }
 .lw-footer__line--wa svg{stroke:none;fill:var(--lw-wa)}
+.lw-footer__line--ig svg{stroke:var(--lw-gold);fill:none;stroke-width:1.7}
+.lw-footer__line--ig:hover{color:var(--lw-gold)}
 .lw-footer__line--google svg{stroke:none}
 .lw-footer__line--google:hover{color:var(--lw-gold)}
 
